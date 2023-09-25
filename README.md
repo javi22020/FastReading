@@ -5,3 +5,4 @@ En el futuro, me gustaría añadir las siguientes características:
 - Interfaz más pulida y amigable.
 - Programa en un único fichero .exe, para facilitar el uso.
 - Fuentes personalizables, para permitir OpenDyslexic y otras fuentes especiales.
+- Soporte de voz.
