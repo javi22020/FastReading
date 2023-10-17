@@ -1,0 +1,4 @@
+PyYAML
+tkextrafont
+fonttools
+ttkthemes

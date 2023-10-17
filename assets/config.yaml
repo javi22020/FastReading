@@ -1,0 +1,5 @@
+carpeta-fuentes: ./assets/fonts/
+fuente-selec: Righteous-Regular
+tema-oscuro: true
+velocidad: 5
+voz: false
