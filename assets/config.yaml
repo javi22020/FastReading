@@ -1,5 +1,5 @@
 carpeta-fuentes: ./assets/fonts/
-fuente-selec: Righteous-Regular
-tema-oscuro: true
+fuente-selec: OpenDyslexic
+tema-oscuro: false
 velocidad: 5
 voz: false
