@@ -17,8 +17,4 @@ En el futuro, me gustaría añadir las siguientes características:
 
 # Requisitos
 - Necesitarás Python 3 para ejecutar el programa. **IMPORTANTE**: Marca la casilla "Añadir al PATH". Puedes descargarlo aquí: https://www.python.org/downloads/
-- Para iniciar el programa, ejecuta 'app.py':
-'''
-bash
-python app.py
-'''
+- Para iniciar el programa, ejecuta 'app.py'.
